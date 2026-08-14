@@ -582,15 +582,12 @@ Include screenshots of:
 
 Store all screenshots inside:
 
-```text
-
 <img width="263" height="180" alt="Login Successful" src="https://github.com/user-attachments/assets/e27d90b5-6d37-4991-a4e6-de5d5531b233" />
 <img width="338" height="235" alt="Deposit" src="https://github.com/user-attachments/assets/9f2b73a7-73df-4ace-9f25-fc5d1ab41aba" />
 <img width="350" height="218" alt="Withdraw" src="https://github.com/user-attachments/assets/7e40f283-1545-40e2-bdb4-f3d24cb5cc6d" />
 <img width="369" height="227" alt="Transfer" src="https://github.com/user-attachments/assets/662e4982-6710-4544-b95d-569253fca08d" />
 <img width="822" height="265" alt="Trasaction History" src="https://github.com/user-attachments/assets/0d3e556e-25f6-4f89-b6a6-8d67087bf442" />
 
-```
 
 ---
 
