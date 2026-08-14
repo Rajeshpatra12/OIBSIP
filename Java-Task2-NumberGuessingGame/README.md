@@ -390,7 +390,7 @@ All internship tasks are maintained within a single repository:
 
 ```text
 OIBSIP/
-└── Java-Task1-NumberGuessingGame/
+└── Java-Task2-NumberGuessingGame/
 ```
 
 The repository contains:
